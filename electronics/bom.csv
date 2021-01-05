@@ -1,6 +1,6 @@
 Qty ,Value              ,Device             ,Package               ,Parts                                                                                 ,Description                                                             
 2,                   ,AUDIO-JACKPTH      ,AUDIO-JACK            ,"JP1, JP2                                                                              ",3.5mm Stereo Audio Jack  CUI SJ1-3523N                                                      
-4,                   ,DIODESOD123        ,SOD-123               ,"D1, D2, D3, D4                                                                        ",1N4148 SOD-123 didoe
+4,                   ,DIODESOD123        ,SOD-123               ,"D1, D2, D3, D4                                                                        ",1N4148 SOD-123 diode
 1,                   ,SWITCH-DPDTEG2211  ,EG2211                ,S1                                                                                    ,DPDT Version of the COM-00597                                           
 9,100n               ,C-EUC0805          ,C0805                 ,"C1, C2, C3, C4, C5, C6, C7, C8, C9                                                    ",0805 X7R capacitors
 16,10K                ,R-EU_R0805         ,R0805                 ,"R20, R22, R24, R26, R28, R30, R32, R34, R36, R38, R40, R42, R44, R46, R48, R51        ",0805 1% Resistors
